@@ -1,0 +1,85 @@
+ h1, h2{
+    color: blue;
+    text-align: center;
+}
+ body {
+    background-color: tan;
+ }
+
+ div#navbar ul li a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    font-weight: 900;
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: .75em;
+ }
+
+ div#navbar {
+    width: 100%;
+    margin-bottom: 7em;
+ }
+
+ div#navbar ul {
+    list-style-type: none;
+ }
+
+ div#navbar ul li {
+    text-align: center;
+    display: inline;
+    width: 23%;
+    float: left;
+    margin-right: .5em;
+ }
+
+ .wrapper {
+  background-color: tan;
+  width: 80%;
+  margin: 0 auto;
+}
+
+/*.pic {
+    background-color: blue;
+    margin-bottom: : 2em;
+}*/
+
+
+div.resume {
+    color: black;
+    text-align: left;
+}
+
+li.changeBackground {
+    background-color: blue;
+}
+
+li.changeBackground:hover {
+    background-color: lightblue;
+}
+
+li.changeBackground:active {
+    background-color: darkblue;
+}
+
+p.strong {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+p.strongLeft{
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: left;
+}
+
+p {
+    text-align: center;
+}
+
+img.itsOwnLine{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+}
