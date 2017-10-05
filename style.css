@@ -81,5 +81,6 @@ img.itsOwnLine{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border: 2px solid black;
+    margin-bottom: 2em;
+    border: 1px solid black;
 }
