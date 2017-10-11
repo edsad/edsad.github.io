@@ -78,7 +78,7 @@ p {
 }
 
 img.itsOwnLine{
-    display: block;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 2em;
